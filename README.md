@@ -5,7 +5,7 @@ Muhammad Danish Mirza
 Email: [danimirza55555@gmail.com](mailto:danimirza55555@gmail.com)
 
 ## Dataset Description
-The dataset is downloaded from the following link.
+The dataset is downloaded from the following [link](https://www.kaggle.com/datasets/lava18/google-play-store-apps/).
 
 ## Context
 While many public datasets (on Kaggle and the like) provide Apple App Store data, there are not many counterpart datasets available for Google Play Store apps anywhere on the web. On digging deeper, the author found out that iTunes App Store page deploys a nicely indexed appendix-like structure to allow for simple and easy web scraping. On the other hand, Google Play Store uses sophisticated modern-day techniques (like dynamic page load) using JQuery making scraping more challenging.
