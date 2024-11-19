@@ -44,5 +44,6 @@ The following libraries are used in this Jupyter Notebook:
 - **seaborn**: For advanced data visualization
 
 You can install these libraries using 
-`pip install pandas numpy matplotlib seaborn`
+```bash
+pip install numpy pandas matplotlib seaborn
  
